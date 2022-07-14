@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Devendra Kumar Prajapat
-- 👀 I’m interested in UI / UX Forntend Development
+- 👀 I’m interested in UI / UX Forntend Development ( React and WordPress ) Team Lead
 - 🌱 I’m currently learning new Framework 
 
 <!---
