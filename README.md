@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Devendra Kumar Prajapat
-- 👀 I’m interested in UI / UX Forntend Development ( React and WordPress ) Team Lead
+-  Experienced Frontend Developer | WordPress | React JS | AngularJS | Vue JS | React Native | Instructor @ Tooldart
 
 
 <!---
