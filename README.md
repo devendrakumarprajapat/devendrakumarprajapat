@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Devendra Kumar Prajapat
--  Experienced Frontend Developer | WordPress | React JS | AngularJS | Vue JS | React Native | Instructor @ Tooldart
+-  Experienced Frontend Developer | WordPress | React JS | AngularJS | Vue JS | React Native
 
 
 <!---
