@@ -9,12 +9,12 @@ With over 5 years of experience in web design and development, I specialize in c
 - **HTML & CSS**: Building clean, efficient, and accessible code
 - **JavaScript/jQuery**: Creating interactive and engaging user experiences
 - **Bootstrap**: Designing responsive and mobile-first websites quickly
+- **WordPress Development**: Custom themes and plugins for a tailored web presence
 - **React JS**: Building robust and scalable web applications
 - **Material-UI**: Implementing stylish and consistent UI components for React applications
 
 ## ✅ WordPress Expertise
-
-- **WordPress Development**: Custom themes and plugins for a tailored web presence
+ 
 - **Theme Development**: WordPress theme development, installation, and customization
 - **Advanced Custom Fields**: Developing custom themes using ACF plugin
 - **Elementor Plugin**: Developing websites using Elementor Plugin
